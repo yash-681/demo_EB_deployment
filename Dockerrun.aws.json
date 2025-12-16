@@ -1,12 +1,12 @@
 {
-  "AWSEBDockerrunVersion":1,
+  "AWSEBDockerrunVersion": 1,
   "Image": {
     "Name": "550933156296.dkr.ecr.ap-south-1.amazonaws.com/demo_ecr_repo:latest",
-    "Update":true
+    "Update": true
   },
   "Ports": [
     {
-      "ContainerPort":8000
+      "ContainerPort": 8000
     }
   ]
 }
